@@ -32,3 +32,9 @@ users.xlsx      | Входной файл текущих активных пол
 3. Следить за историей выполнения номеров
 4. Визуализировать свой рейтинг с помощью radar (spyder) chart. Визуализация может иметь следующий вид:
 ![Визуализация рейтинга](https://github.com/yuliivasiliev/Ege-task-recommend/blob/main/tmp.png)
+
+### Используемые технологии
+1. aiogram (необходима дополнительная установка: pip install -U aiogram)
+2. Pandas
+3. Numpy
+4. matplotlib
